@@ -1,0 +1,5 @@
+Flask==0.12.2
+flask-swagger==0.2.13
+requests==2.18.4
+opencv-python==3.3.0.9
+numpy==1.13.1
